@@ -10,10 +10,10 @@ In this series, we will be building a full stack app(Node.js & React) where user
 We all have preferred method of learning so choose the format that works for you:
 
 **1. [Video format]()(YouTube playlist)**
-If you like learning by watching videos, click on the link above to access the YouTube playlist.
+If you like learning by watching videos, click on the link to access the YouTube playlist.
 
 **2. [Blog format](https://dev.to/lisahjung/beginners-guide-to-building-a-full-stack-appnodejsreact-with-elasticsearch-2o5j-temp-slug-1991233/edit) (Dev.to)**
-If you prefer to learn by reading instead, click on the link above to access the blogs. 
+If you prefer to learn by reading instead, click on the link to access the blogs. 
 
 ## How to use this repo
 This repo contains multiple branches that serve as complementary resource to season 2 YouTube episode/blog.
@@ -26,10 +26,10 @@ This repo contains multiple branches that serve as complementary resource to sea
 - [5-build_the_client](https://github.com/LisaHJung/beginners-guide-to-creating-a-full-stack-Javascript-app-with-Elasticsearch/tree/5-build_the_client)
 - [6-manage_elasticsearch_request](https://github.com/LisaHJung/beginners-guide-to-creating-a-full-stack-Javascript-app-with-Elasticsearch/tree/6-manage_elasticsearch_request)
 
-**Use the YouTube episodes/blogs as your guide as these resources will contain the link to the complementary repo branch.**
+**Use the YouTube episodes/blogs as your guide as these resources will contain the link to the corresponding repo branch.**
 
 ## Running the App locally
-**I highly recommend that you follow the tutorials to build your own app in your local environment! We will not be able to provide support troubleshooting npm issues that arise with downloaded/cloned projects.** 
+**I highly recommend that you follow the tutorials to build your own app in your local environment. Our team is not be able to provide support troubleshooting npm issues that arise with downloaded/cloned projects.** 
 
 **If you wish to download the project, follow these instructions.**
 
@@ -38,15 +38,17 @@ Go to the page of the branch you wish to download.
 
 Click on the `Code` button(blue box) to display the drop down menu. 
 
-Click on the `Download Zip` option(red box).
 <img width="1327" alt="image" src="https://user-images.githubusercontent.com/60980933/184769135-25c906df-3382-44bf-be0c-68222b79b79a.png">
+Click on the `Download Zip` option(red box).
 
-Once the code is downloaded, move the file to your desired location.
-Double click on the file to unzip it. 
+Once the code is downloaded, double click on the file to unzip it. Move the unzipped file to your desired location.
 
 Cd into the project directory.
 
-###Run the server
+**Depending on which episode/blog/branch you are working with, the repo will contain either only the server side code or both the server and client side code.**
+
+### Run the server
+
 Run these commands in the following order. 
 ```javascript
 //in the project directory
@@ -54,7 +56,8 @@ npm install
 npm start
 ```
 
-###Run the client
+### Run the client
+
 Run these commands in the following order. 
 ```javascript
 //in a new terminal, cd into the project directory 
@@ -64,6 +67,8 @@ npm start
 ```
 ### Attention
 This project requires creating an Elastic Cloud deployment and adding access credentials to the config/default.json file.
+
+As mentioned earlier, it's important that you follow the tutorial in order as it will walk you through everything step by step. 
 
 You can learn how to do these tasks by reading the blogs:
 - [Part 3: Create an Elastic Cloud deployment](https://dev.to/lisahjung/part-3-securely-connect-elasticsearch-service-to-nodejs-server-30ah-temp-slug-1884353?preview=258b54384c37640f7abbefedc09bfb1016f209b2d70b1311ec7e294058c0001229a9f32abc40994e7152ed7723799280dd56e1292195135742beeb76)
