@@ -26,4 +26,45 @@ This repo contains multiple branches that serve as complementary resource to sea
 - [5-build_the_client](https://github.com/LisaHJung/beginners-guide-to-creating-a-full-stack-Javascript-app-with-Elasticsearch/tree/5-build_the_client)
 - [6-manage_elasticsearch_request](https://github.com/LisaHJung/beginners-guide-to-creating-a-full-stack-Javascript-app-with-Elasticsearch/tree/6-manage_elasticsearch_request)
 
-The links to the complementary repo branch are included in the YouTube episode/blog so you will be able to access the relevant repo with ease! 
+**Use the YouTube episodes/blogs as your guide as these resources will contain the link to the complementary repo branch.**
+
+## Running the App locally
+**I highly recommend that you follow the tutorials to build your own app in your local environment! We will not be able to provide support troubleshooting npm issues that arise with downloaded/cloned projects.** 
+
+**If you wish to download the project, follow these instructions.**
+
+### Downloading the repo
+Go to the page of the branch you wish to download.
+
+Click on the `Code` button(blue box) to display the drop down menu. 
+
+Click on the `Download Zip` option(red box).
+<img width="1327" alt="image" src="https://user-images.githubusercontent.com/60980933/184769135-25c906df-3382-44bf-be0c-68222b79b79a.png">
+
+Once the code is downloaded, move the file to your desired location.
+Double click on the file to unzip it. 
+
+Cd into the project directory.
+
+###Run the server
+Run these commands in the following order. 
+```javascript
+//in the project directory
+npm install
+npm start
+```
+
+###Run the client
+Run these commands in the following order. 
+```javascript
+//in a new terminal, cd into the project directory 
+cd client
+npm install
+npm start
+```
+### Attention
+This project requires creating an Elastic Cloud deployment and adding access credentials to the config/default.json file.
+
+You can learn how to do these tasks by reading the blogs:
+- [Part 3: Create an Elastic Cloud deployment](https://dev.to/lisahjung/part-3-securely-connect-elasticsearch-service-to-nodejs-server-30ah-temp-slug-1884353?preview=258b54384c37640f7abbefedc09bfb1016f209b2d70b1311ec7e294058c0001229a9f32abc40994e7152ed7723799280dd56e1292195135742beeb76)
+- [Part 4: Securely connect Node.js server to Elastic Cloud](https://dev.to/lisahjung/part-4-securely-connect-elasticsearch-service-to-nodejs-server-57gf-temp-slug-3638718?preview=6f362540fad022b443b642dd896eef4792483f0757e7ef8a39d5ac600fbcaeaf3b1389c7a0398cd8ebb0d6926ba20af930f6a9f5703a3ce5d7bde8bd)
