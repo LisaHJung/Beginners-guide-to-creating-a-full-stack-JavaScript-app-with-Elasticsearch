@@ -11,7 +11,7 @@ We all have preferred method of learning so choose the format that works for you
 
 **1. [Video format]()(YouTube playlist)**
 
-**2. [Blog format](https://dev.to/lisahjung/beginners-guide-to-building-a-full-stack-appnodejsreact-with-elasticsearch-2o5j-temp-slug-1991233/edit) (Dev.to)**
+**2. [Blog format](https://dev.to/lisahjung/beginners-guide-to-building-a-full-stack-appnodejsreact-with-elasticsearch-2o5j-temp-slug-1991233?preview=63b623ad98660c9aef77e65a1a0e615e08a34a446e07bdad78c382ea5ac3f4b554b77514786031e1bb67701a633d55735a8cf5ff1c6220fc71b302f9) (Dev.to)**
 
 ## How to use this repo
 This repo contains multiple branches that serve as complementary resource to season 2 YouTube episode/blog.
