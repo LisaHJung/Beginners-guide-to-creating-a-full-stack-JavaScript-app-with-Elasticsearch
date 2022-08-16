@@ -10,6 +10,7 @@ In this series, we will be building a full stack app(Node.js & React) where user
 We all have preferred method of learning so choose the format that works for you:
 
 **1. [Video format]()(YouTube playlist)**
+
 **2. [Blog format](https://dev.to/lisahjung/beginners-guide-to-building-a-full-stack-appnodejsreact-with-elasticsearch-2o5j-temp-slug-1991233/edit) (Dev.to)**
 
 ## How to use this repo
@@ -23,7 +24,7 @@ This repo contains multiple branches that serve as complementary resource to sea
 - [5-build_the_client](https://github.com/LisaHJung/beginners-guide-to-creating-a-full-stack-Javascript-app-with-Elasticsearch/tree/5-build_the_client)
 - [6-manage_elasticsearch_request](https://github.com/LisaHJung/beginners-guide-to-creating-a-full-stack-Javascript-app-with-Elasticsearch/tree/6-manage_elasticsearch_request)
 
-:sparkles:**Follow the YouTube episodes/blogs in sequential order. These resources will contain the link to the corresponding repo branch.**:sparkles:
+:sparkles:**Follow the YouTube episodes/blogs in sequential order as these resources provide step by step directions on how to build the app. These resources also contain the link to the corresponding repo branch.**:sparkles:
 
 ## Running the App locally
 :sparkles:**I highly recommend that you follow the tutorials and build your own app in your local environment instead of downloading the project. Our team is not able to provide support troubleshooting npm issues that arise with downloaded/cloned projects.** :sparkles:
