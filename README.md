@@ -41,7 +41,9 @@ Click on the `Code` button(blue box) to display the drop down menu.
 Click on the `Download Zip` option(red box).
 
 
-Once the code is downloaded, double click on the file to unzip it. Move the unzipped file to your desired location.
+Once the code is downloaded, double click on the file to unzip it. 
+
+Move the unzipped file to your desired location.
 
 Cd into the project directory.
 
@@ -49,7 +51,7 @@ Cd into the project directory.
 
 ### Run the server
 
-Run these commands in the following order. 
+Run these commands in the terminal in the following order. 
 ```javascript
 //in the project directory
 npm install
@@ -58,9 +60,9 @@ npm start
 
 ### Run the client
 
-Run these commands in the following order. 
+Run these commands in a new terminal in the following order. 
 ```javascript
-//in a new terminal, cd into the project directory 
+//in a new terminal, cd into the project directory
 cd client
 npm install
 npm start
@@ -72,4 +74,4 @@ The steps on how to accomplish these tasks are outlined in the blogs:
 - [Part 3: Create an Elastic Cloud deployment](https://dev.to/lisahjung/part-3-securely-connect-elasticsearch-service-to-nodejs-server-30ah-temp-slug-1884353?preview=258b54384c37640f7abbefedc09bfb1016f209b2d70b1311ec7e294058c0001229a9f32abc40994e7152ed7723799280dd56e1292195135742beeb76)
 - [Part 4: Securely connect Node.js server to Elastic Cloud](https://dev.to/lisahjung/part-4-securely-connect-elasticsearch-service-to-nodejs-server-57gf-temp-slug-3638718?preview=6f362540fad022b443b642dd896eef4792483f0757e7ef8a39d5ac600fbcaeaf3b1389c7a0398cd8ebb0d6926ba20af930f6a9f5703a3ce5d7bde8bd)
 
-:sparkles:**Be sure to update the `config/default.json` file with your access credentials before running the project!**:sparkles:
+:sparkles:**When running the project in branches 2-6, be sure to update the `config/default.json` file with your access credentials before running the project!**:sparkles:
