@@ -44,7 +44,7 @@ Once the code is downloaded, double click on the file to unzip it. Move the unzi
 
 Cd into the project directory.
 
-**Depending on which episode/blog/branch you are working on, the corresponding repo will contain only the server side code or both the server and client side code.**
+:sparkles:**Depending on which episode/blog/branch you are working on, the corresponding repo will contain only the server side code or both the server and client side code.**:sparkles:
 
 ### Run the server
 
@@ -64,11 +64,11 @@ cd client
 npm install
 npm start
 ```
-### Attention :sparkles:
+### Attention
 This project requires creating an Elastic Cloud deployment and adding the Elastic Cloud access credentials to the `config/default.json` file.
 
 The steps on how to accomplish these tasks are outlined in the blogs:
 - [Part 3: Create an Elastic Cloud deployment](https://dev.to/lisahjung/part-3-securely-connect-elasticsearch-service-to-nodejs-server-30ah-temp-slug-1884353?preview=258b54384c37640f7abbefedc09bfb1016f209b2d70b1311ec7e294058c0001229a9f32abc40994e7152ed7723799280dd56e1292195135742beeb76)
 - [Part 4: Securely connect Node.js server to Elastic Cloud](https://dev.to/lisahjung/part-4-securely-connect-elasticsearch-service-to-nodejs-server-57gf-temp-slug-3638718?preview=6f362540fad022b443b642dd896eef4792483f0757e7ef8a39d5ac600fbcaeaf3b1389c7a0398cd8ebb0d6926ba20af930f6a9f5703a3ce5d7bde8bd)
 
-**Be sure to update the `config/default.json` file with your access credentials before running the project!**
+:sparkles:**Be sure to update the `config/default.json` file with your access credentials before running the project!**:sparkles:
