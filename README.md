@@ -23,10 +23,10 @@ This repo contains multiple branches that serve as complementary resource to sea
 - [5-build_the_client](https://github.com/LisaHJung/beginners-guide-to-creating-a-full-stack-Javascript-app-with-Elasticsearch/tree/5-build_the_client)
 - [6-manage_elasticsearch_request](https://github.com/LisaHJung/beginners-guide-to-creating-a-full-stack-Javascript-app-with-Elasticsearch/tree/6-manage_elasticsearch_request)
 
-**Follow the YouTube episodes/blogs in sequential order. These resources will contain the link to the corresponding repo branch.**
+:sparkles:**Follow the YouTube episodes/blogs in sequential order. These resources will contain the link to the corresponding repo branch.**:sparkles:
 
 ## Running the App locally
-**I highly recommend that you follow the tutorials and build your own app in your local environment instead of downloading the project. Our team is not able to provide support troubleshooting npm issues that arise with downloaded/cloned projects.** 
+:sparkles:**I highly recommend that you follow the tutorials and build your own app in your local environment instead of downloading the project. Our team is not able to provide support troubleshooting npm issues that arise with downloaded/cloned projects.** :sparkles:
 
 If you wish to download the project, follow these instructions.
 
@@ -64,7 +64,7 @@ cd client
 npm install
 npm start
 ```
-:sparkles:### Attention :sparkles:
+### Attention :sparkles:
 This project requires creating an Elastic Cloud deployment and adding the Elastic Cloud access credentials to the `config/default.json` file.
 
 The steps on how to accomplish these tasks are outlined in the blogs:
