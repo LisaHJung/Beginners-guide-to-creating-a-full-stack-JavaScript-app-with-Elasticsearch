@@ -1,0 +1,114 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans+Condensed:wght@300&display=swap');
+
+* {
+  font-family: 'Open Sans Condensed', sans-serif;
+}
+
+body {
+  background-image: url(https://i.imgur.com/lx59qEN.jpg);
+  background-position-x: center;
+  background-position-y: center;
+  background-size: 100% auto;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-origin: initial;
+  background-clip: initial;
+  margin: 0;
+}
+
+div {
+  color: white;
+}
+
+.nav {
+  width: 100%;
+  float: left;
+}
+
+.nav-bar {
+  margin: 0;
+  padding: 8px;
+  height: 50px;
+  background-color: rgb(28, 28, 28);
+}
+
+.nav-bar li {
+  display: inline;
+  margin-top: 0px;
+  font-size: 2.5em;
+}
+
+.directions {
+  margin-left: 14px;
+  font-size: 1.5em;
+}
+
+.main {
+  display: flex;
+  flex-direction: column;
+  font-family: inherit;
+}
+.type-selector {
+  margin-left: -30px;
+}
+
+.type-selector li {
+  float: left;
+  display: inline;
+  margin-left: 4px;
+  margin-top: -19px;
+  font-style: inherit;
+}
+
+.type-selector li:focus,
+.type-selector li:hover {
+  outline: none;
+  border: 1px solid #bbbbbb;
+}
+
+.form {
+  width: 200px;
+  height: 16px;
+}
+
+.form::placeholder {
+  color: black;
+  opacity: 1;
+}
+
+.type-selector button:hover {
+  color: #be3400;
+  border: 0.1rem #404040 solid; 
+}
+
+.type-selector button {
+  height: 23px;
+}
+
+.search-results {
+  display: block;
+  width: 100%;
+  margin-left: 13px;
+  font-family: inherit;
+}
+
+.results-card {
+  background-color: rgb(25, 129, 67, 0.7);
+  flex: 0 1 29rem;
+  height: 23rem;
+  border-radius: 10px;
+  font-weight: bold;
+  border: 1px;
+  float: left;
+  margin: 1px;
+  margin-top: 5px;
+  margin-right: 10px;
+  padding: 10px epx;
+  justify-content: space-between;
+  max-width: 400px;
+}
+
+.results-text {
+  margin-left: 2rem;
+  margin-right: 2rem;
+}
