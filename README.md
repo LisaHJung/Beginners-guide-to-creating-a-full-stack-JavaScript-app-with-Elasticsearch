@@ -2,15 +2,6 @@
 - [blog](https://dev.to/lisahjung/part-4-securely-connect-elasticsearch-service-to-nodejs-server-57gf-temp-slug-3638718?preview=6f362540fad022b443b642dd896eef4792483f0757e7ef8a39d5ac600fbcaeaf3b1389c7a0398cd8ebb0d6926ba20af930f6a9f5703a3ce5d7bde8bd)
 - [episode]()
 
-### Start the server
-
-Execute these commands in the terminal in the following order. 
-```javascript
-//in the project directory
-npm install
-npm start
-```
-
 ### Don't forget!
 This project requires creating an Elastic Cloud deployment and adding the Elastic Cloud access credentials to the `config/default.json` file.
 
@@ -20,6 +11,14 @@ The steps on how to accomplish these tasks are outlined in the blogs:
 
 :sparkles:**When running this project, be sure to update the `config/default.json` file with your access credentials before running the project!**:sparkles:!
 
+### Start the server
+
+Execute these commands in the terminal in the following order. 
+```javascript
+//in the project directory
+npm install
+npm start
+```
 ### Final outcome:
 
 The server is connected to Elasticsearch via basic authentication!
