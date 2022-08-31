@@ -11,7 +11,7 @@ npm install
 npm start
 ```
 
-###Final outcome:
+### Final outcome:
 
 In the terminal, you will see that your app is executing `server.js` in the `server` directory and that the server is listening at http://localhost:3001. 
 
