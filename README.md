@@ -16,7 +16,7 @@ We all have preferred method of learning so choose the format that works for you
 ## How to use this repo
 This repo contains multiple branches that serve as complementary resource to season 2 YouTube episode/blog.
 
-- [main(final product)](https://github.com/LisaHJung/beginners-guide-to-creating-a-full-stack-Javascript-app-with-Elasticsearch/tree/main)
+- [main (final product)](https://github.com/LisaHJung/beginners-guide-to-creating-a-full-stack-Javascript-app-with-Elasticsearch/tree/main)
 - [1-build-a-server](https://github.com/LisaHJung/beginners-guide-to-creating-a-full-stack-Javascript-app-with-Elasticsearch/tree/1-build-a-server)
 - [2-connect-server-to-Elastic-Cloud-via-basic-authentication](https://github.com/LisaHJung/beginners-guide-to-creating-a-full-stack-Javascript-app-with-Elasticsearch/tree/2-connect-server-to-Elastic-Cloud-via-basic-authentication)
 - [3-connect-server-to-Elastic-Cloud-via-apiKey](https://github.com/LisaHJung/beginners-guide-to-creating-a-full-stack-Javascript-app-with-Elasticsearch/tree/3-connect-server-to-Elastic-Cloud-via-apiKey)
@@ -27,7 +27,7 @@ This repo contains multiple branches that serve as complementary resource to sea
 :sparkles:**Follow the YouTube episodes/blogs in sequential order and use this repo as a supplementary resource. The videos/blogs contain the link to the corresponding repo branch.**:sparkles:
 
 ## Running the App locally
-:sparkles:**I highly recommend that you follow the tutorials and build your own app in your local environment instead of downloading the project. Our team is not able to provide support troubleshooting npm issues that arise with downloaded/cloned projects.** :sparkles:
+:sparkles:**I highly recommend that you follow the tutorials and build your own app in your local environment instead of downloading the project. Our team is not able to provide support troubleshooting npm issues that arise with the downloaded/cloned projects.** :sparkles:
 
 If you wish to download the project, follow these instructions.
 
@@ -40,7 +40,6 @@ Click on the `Code` button(blue box) to display the drop down menu.
 
 Click on the `Download Zip` option(red box).
 
-
 Once the code is downloaded, double click on the file to unzip it. 
 
 Move the unzipped file to your desired location.
@@ -49,25 +48,25 @@ Cd into the project directory.
 
 :sparkles:**Depending on which episode/blog/branch you are working on, the corresponding repo will contain only the server side code or both the server and client side code.**:sparkles:
 
-### Run the server
+### Start the server
 
-Run these commands in the terminal in the following order. 
+Execute these commands in the terminal in the following order. 
 ```javascript
 //in the project directory
 npm install
 npm start
 ```
 
-### Run the client
+### Start the client
 
-Run these commands *in a new terminal* in the following order. 
+Execute these commands *in a new terminal* in the following order. 
 ```javascript
 //in the project directory
 cd client
 npm install
 npm start
 ```
-### Attention
+### Don't forget!
 This project requires creating an Elastic Cloud deployment and adding the Elastic Cloud access credentials to the `config/default.json` file.
 
 The steps on how to accomplish these tasks are outlined in the blogs:
