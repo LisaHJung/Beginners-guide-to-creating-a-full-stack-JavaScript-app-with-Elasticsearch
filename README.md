@@ -39,7 +39,7 @@ When you click on each select option, it will render the corresponding drop down
 
 If Elasticsearch contains the documents you are looking for, you will see the search results displayed in the form of cards. 
 
-![Image description](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/518nqvd380gv6fzk0uhx.png)
+![image](https://user-images.githubusercontent.com/60980933/187599185-f54a7a85-9f0f-4a65-8f71-3e49d9d99204.png)
 
 If Elasticsearch does not have the documents you seek, you will see the following message displayed on the page. 
 ![Image description](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/c5jue7px2gazhkts7qt0.png)
