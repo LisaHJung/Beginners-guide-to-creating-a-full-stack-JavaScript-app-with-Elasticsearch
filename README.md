@@ -1,6 +1,6 @@
 ### Corresponding resources
-- [blog](https://dev.to/lisahjung/part-7-setting-up-the-server-to-handle-data-retrieval-transformation-and-ingestion-3fm7-temp-slug-2915281?preview=fe56d1c8931b38d6c355a2cbf6886ea8921b7f8990395ca99b6778096c32b3bcbc2968fc7c3d269672296406e716be244b1478c74a2c5881dd51f7a0)
-- [episode]()
+- [Blog](https://dev.to/lisahjung/part-7-setting-up-the-server-to-handle-data-retrieval-transformation-and-ingestion-3fm7-temp-slug-2915281?preview=fe56d1c8931b38d6c355a2cbf6886ea8921b7f8990395ca99b6778096c32b3bcbc2968fc7c3d269672296406e716be244b1478c74a2c5881dd51f7a0)
+- [Video](https://www.youtube.com/watch?v=vcQZTjhGDdY)
 
 ### Don't forget!
 This project requires creating an Elastic Cloud deployment and adding the Elastic Cloud access credentials to the `config/default.json` file.
