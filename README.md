@@ -10,6 +10,7 @@ In this series, we will be building a full stack app(Node.js & React) where user
 We all have preferred method of learning so choose the format that works for you:
 
 **1. [Video format](https://ela.st/mini-beginners-crash-course)(YouTube playlist)**
+
 Season 2 video titles start with S2 and has a thumbnail background similar to the following!
 <img width="817" alt="image" src="https://user-images.githubusercontent.com/60980933/188253792-bccb5137-a7e3-462f-88b8-e7314b3660dd.png">
 
