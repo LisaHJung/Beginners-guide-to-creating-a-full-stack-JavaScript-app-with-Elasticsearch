@@ -66,7 +66,7 @@ cd client
 npm install
 npm start
 ```
-Recommended browser for this project is Google Chrome. 
+:sparkles:Recommended browser for this project is Google Chrome.:sparkles: 
 
 ### Don't forget!
 This project requires creating an Elastic Cloud deployment and adding the Elastic Cloud access credentials to the `config/default.json` file.
