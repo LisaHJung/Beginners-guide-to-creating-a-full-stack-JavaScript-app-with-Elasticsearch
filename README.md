@@ -1,6 +1,6 @@
 ### Corresponding resources
-- [blog](https://dev.to/lisahjung/part-9-set-up-server-to-send-requests-80m-temp-slug-1808507?preview=27ba4fbceb55a21129bbeadfe949d3b9cba596bebfa335de8fd463288e3849f91e771a71a76ae47fda42a7b3bc501ae99ec035fee5e0cb5632ed6ca5)
-- [episode]()
+- [Blog](https://dev.to/lisahjung/part-9-set-up-server-to-send-requests-80m-temp-slug-1808507?preview=27ba4fbceb55a21129bbeadfe949d3b9cba596bebfa335de8fd463288e3849f91e771a71a76ae47fda42a7b3bc501ae99ec035fee5e0cb5632ed6ca5)
+- [Video](https://www.youtube.com/watch?v=IwBwhb0htII)
 
 ### Don't forget!
 This project requires creating an Elastic Cloud deployment and adding the Elastic Cloud access credentials to the `config/default.json` file.
@@ -29,6 +29,7 @@ cd client
 npm install
 npm start
 ```
+:sparkles:**The recommended browser for this project is Google Chrome.**:sparkles: 
 
 ### Final outcome:
 
