@@ -24,7 +24,7 @@ This repo contains multiple branches that serve as complementary resource to sea
 - [2-connect-server-to-Elastic-Cloud-via-basic-authentication](https://github.com/LisaHJung/beginners-guide-to-creating-a-full-stack-Javascript-app-with-Elasticsearch/tree/2-connect-server-to-Elastic-Cloud-via-basic-authentication)
 - [3-connect-server-to-Elastic-Cloud-via-apiKey](https://github.com/LisaHJung/beginners-guide-to-creating-a-full-stack-Javascript-app-with-Elasticsearch/tree/3-connect-server-to-Elastic-Cloud-via-apiKey)
 - [4-retrieve_and_ingest_data](https://github.com/LisaHJung/beginners-guide-to-creating-a-full-stack-Javascript-app-with-Elasticsearch/tree/4-retrieve_and_ingest_data)
-- [5-build_the_client](https://github.com/LisaHJung/beginners-guide-to-creating-a-full-stack-Javascript-app-with-Elasticsearch/tree/5-build_the_client)
+- [5-build_the_client](https://github.com/LisaHJung/beginners-guide-to-creating-a-full-stack-JavaScript-app-with-Elasticsearch/tree/5-build_the_client)
 - [6-manage_elasticsearch_request](https://github.com/LisaHJung/beginners-guide-to-creating-a-full-stack-Javascript-app-with-Elasticsearch/tree/6-manage_elasticsearch_request)
 
 :sparkles:**Follow the YouTube episodes/blogs in sequential order and use this repo as a supplementary resource. The videos/blogs contain the link to the corresponding repo branch.**:sparkles:
