@@ -48,7 +48,8 @@ Once the code is downloaded, double click on the file to unzip it.
 Move the unzipped file to your desired location.
 
 I recommend that you change the name to something shorter as the downloaded project will have the following name:
-beginners-guide-to-creating-a-full-stack-JavaScript-app-with-Elasticsearch-main.zip
+
+*beginners-guide-to-creating-a-full-stack-JavaScript-app-with-Elasticsearch-name-of-the-branch.zip*
 
 Cd into the project directory.
 
