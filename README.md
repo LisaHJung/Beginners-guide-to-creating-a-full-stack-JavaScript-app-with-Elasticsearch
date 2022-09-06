@@ -30,8 +30,6 @@ This repo contains multiple branches that serve as complementary resource to sea
 :sparkles:**Follow the YouTube episodes/blogs in sequential order and use this repo as a supplementary resource. The videos/blogs contain the link to the corresponding repo branch.**:sparkles:
 
 ## Running the App locally
-:sparkles:**I highly recommend that you follow the tutorials and build your own app in your local environment instead of downloading the project. Our team is not able to provide support troubleshooting npm issues that arise with the downloaded/cloned projects.** :sparkles:
-
 If you wish to download the project, follow these instructions.
 
 ### Downloading the repo
