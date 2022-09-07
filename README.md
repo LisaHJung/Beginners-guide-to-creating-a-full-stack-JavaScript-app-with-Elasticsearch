@@ -1,13 +1,13 @@
 ### Corresponding resources
-- [Blog](https://dev.to/lisahjung/part-9-set-up-server-to-send-requests-80m-temp-slug-1808507?preview=27ba4fbceb55a21129bbeadfe949d3b9cba596bebfa335de8fd463288e3849f91e771a71a76ae47fda42a7b3bc501ae99ec035fee5e0cb5632ed6ca5)
+- [Blog](https://dev.to/lisahjung/part-9-set-up-the-nodejs-server-to-handle-elasticsearch-requests-5206)
 - [Video](https://www.youtube.com/watch?v=IwBwhb0htII)
 
 ### Don't forget!
 This project requires creating an Elastic Cloud deployment and adding the Elastic Cloud access credentials to the `config/default.json` file.
 
 The steps on how to accomplish these tasks are outlined in the following blogs:
-- [Part 3: Create an Elastic Cloud deployment](https://dev.to/lisahjung/part-3-securely-connect-elasticsearch-service-to-nodejs-server-30ah-temp-slug-1884353?preview=258b54384c37640f7abbefedc09bfb1016f209b2d70b1311ec7e294058c0001229a9f32abc40994e7152ed7723799280dd56e1292195135742beeb76)
-- [Part 4: Securely connect Node.js server to Elastic Cloud](https://dev.to/lisahjung/part-4-securely-connect-elasticsearch-service-to-nodejs-server-57gf-temp-slug-3638718?preview=6f362540fad022b443b642dd896eef4792483f0757e7ef8a39d5ac600fbcaeaf3b1389c7a0398cd8ebb0d6926ba20af930f6a9f5703a3ce5d7bde8bd)
+- [Part 3: Create an Elastic Cloud deployment](https://dev.to/lisahjung/part-3-create-an-elastic-cloud-deployment-36bn)
+- [Part 4: Securely connect Node.js server to Elastic Cloud](https://dev.to/lisahjung/part-4-securely-connect-nodejs-server-to-elastic-cloud-4f22)
 
 :sparkles:**When running this project, be sure to update the `config/default.json` file with your access credentials before running the project!**:sparkles:!
 
