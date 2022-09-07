@@ -9,7 +9,7 @@ The steps on how to accomplish these tasks are outlined in the following blogs:
 - [Part 3: Create an Elastic Cloud deployment](https://dev.to/lisahjung/part-3-create-an-elastic-cloud-deployment-36bn)
 - [Part 4: Securely connect Node.js server to Elastic Cloud](https://dev.to/lisahjung/part-4-securely-connect-nodejs-server-to-elastic-cloud-4f22)
 
-:sparkles:**When running this project, be sure to update the `config/default.json` file with your access credentials before running the project!**:sparkles:!
+:sparkles:**When running this project, be sure to update the `config/default.json` file with your access credentials before running the project!**:sparkles:
 
 ### Start the server
 
