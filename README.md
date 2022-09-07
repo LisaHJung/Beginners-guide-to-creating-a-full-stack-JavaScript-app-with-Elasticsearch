@@ -1,5 +1,5 @@
 ### Corresponding resources
-- [Blog](https://dev.to/lisahjung/prerequisite-steps-3j3f-temp-slug-7695663?preview=ce74279332aad654928fc770e1ddd09926541d86bc9cdcd3bfa24feb38b22b8dec6f5961a14c2aba6a1dc5e88c7a94e51d820571d1ae52daf6c01f6f)
+- [Blog](https://dev.to/lisahjung/part-2-build-a-server-using-nodejs-with-express-52a0)
 - [Video](https://www.youtube.com/watch?v=4Zx5o50BaFs)
 
 ### Start the server
