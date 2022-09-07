@@ -14,7 +14,7 @@ We all have preferred method of learning so choose the format that works for you
 Season 2 video titles start with S2 and has a thumbnail background similar to the following!
 <img width="817" alt="image" src="https://user-images.githubusercontent.com/60980933/188253792-bccb5137-a7e3-462f-88b8-e7314b3660dd.png">
 
-**2. [Blog format](https://dev.to/lisahjung/beginners-guide-to-building-a-full-stack-appnodejsreact-with-elasticsearch-2o5j-temp-slug-1991233?preview=63b623ad98660c9aef77e65a1a0e615e08a34a446e07bdad78c382ea5ac3f4b554b77514786031e1bb67701a633d55735a8cf5ff1c6220fc71b302f9) (Dev.to)**
+**2. [Blog format](https://dev.to/lisahjung/beginners-guide-to-building-a-full-stack-app-nodejs-react-with-elasticsearch-5347) (Dev.to)**
 
 ## How to use this repo
 This repo contains multiple branches that serve as complementary resource to season 2 YouTube episode/blog.
@@ -77,7 +77,7 @@ npm start
 This project requires creating an Elastic Cloud deployment and adding the Elastic Cloud access credentials to the `config/default.json` file.
 
 The steps on how to accomplish these tasks are outlined in the following blogs:
-- [Part 3: Create an Elastic Cloud deployment](https://dev.to/lisahjung/part-3-securely-connect-elasticsearch-service-to-nodejs-server-30ah-temp-slug-1884353?preview=258b54384c37640f7abbefedc09bfb1016f209b2d70b1311ec7e294058c0001229a9f32abc40994e7152ed7723799280dd56e1292195135742beeb76)
-- [Part 4: Securely connect Node.js server to Elastic Cloud](https://dev.to/lisahjung/part-4-securely-connect-elasticsearch-service-to-nodejs-server-57gf-temp-slug-3638718?preview=6f362540fad022b443b642dd896eef4792483f0757e7ef8a39d5ac600fbcaeaf3b1389c7a0398cd8ebb0d6926ba20af930f6a9f5703a3ce5d7bde8bd)
+- [Part 3: Create an Elastic Cloud deployment](https://dev.to/lisahjung/part-3-create-an-elastic-cloud-deployment-36bn)
+- [Part 4: Securely connect Node.js server to Elastic Cloud](https://dev.to/lisahjung/part-4-securely-connect-nodejs-server-to-elastic-cloud-4f22)
 
 :sparkles:**When running the project from branches 2-6, be sure to update the `config/default.json` file with your access credentials before running the project!**:sparkles:
