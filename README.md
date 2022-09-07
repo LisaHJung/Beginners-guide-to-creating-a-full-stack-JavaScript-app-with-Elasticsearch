@@ -1,5 +1,5 @@
 ### Corresponding resources
-- [Blog](https://dev.to/lisahjung/part-8-create-the-frontend-h5e-temp-slug-8044851?preview=d8cf5496a0340a767b704f25fac2efe652320d339abd8276b40699470070ee3a093a4ebaa75343475443e0f4cee104516370cfbf063d680db0f650a0)
+- [Blog](https://dev.to/lisahjung/part-8-build-the-client-side-of-the-app-with-react-2a1b)
 - [Video](https://www.youtube.com/watch?v=53071vyu7UY)
 
 ### Start the client
